@@ -1,0 +1,17 @@
+body {
+    background: #e6ecf0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.app-wrapper {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+button:focus {
+    outline: none;
+}
